@@ -1,6 +1,6 @@
 Hola a todos 👋,
 
-Soy un estudiante dedicado y entusiasta de la tecnología. Desde pequeño, me he sentido fascinado por el poder y las posibilidades que ofrece la programación. Esta pasión me llevó a crear **ByteYourCode**, un proyecto emprendedor donde me dedico a compartir tutoriales sobre diversos aspectos de la programación. Mi objetivo es no solo educar sino inspirar a otros a embarcarse en esta emocionante aventura del código.
+Soy un estudiante dedicado y entusiasta de la tecnología. Desde pequeño, me he sentido fascinado por el poder y las posibilidades que ofrece la programación. Esta pasión me llevó a crear **ByteYourCode**, un proyecto emprendedor donde me dedico a compartir tutoriales sobre diversos aspectos de la programación. Mi objetivo no es solo educar sino también inspirar a otros a embarcarse en esta emocionante aventura del código.
 
 En **ByteYourCode**, cubro una amplia gama de temas, desde conceptos básicos para principiantes hasta técnicas avanzadas para programadores más experimentados. Siempre estoy buscando nuevas ideas y formas de mejorar, por lo que aprecio cualquier feedback y colaboración.
 
