@@ -13,7 +13,7 @@ Para conectarte conmigo directamente y discutir colaboraciones, ideas o cualquie
 ---
 [![GitHub](https://img.shields.io/badge/GitHub-Mi_perfil-5B47ED?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/A-esh)
 
-[![Youtube](https://img.shields.io/badge/Youtube_Programación-Byte_Your_Code-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCSH1XcdzydJAUu388EhaQwA)
+[![Youtube](https://img.shields.io/badge/Youtube_Programación-Byte_Your_Code-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCSki3rWVSXcFRTKYY9F0wjQ)
 
 ### Redes:
 [![Youtube](https://img.shields.io/badge/Youtube_Personal-abraham_esh-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCSH1XcdzydJAUu388EhaQwA) [![Twitch](https://img.shields.io/badge/Twitch-Directos-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.com/abraham_esh) [![Linkedin](https://img.shields.io/badge/Linkedin-Perfil_Profesional-2867B2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/abraham-esh/) [![X](https://img.shields.io/badge/Twitter-X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=101010)](https://twitter.com/abraham_esh)
