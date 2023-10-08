@@ -4,9 +4,9 @@ Soy un estudiante dedicado y entusiasta de la tecnología. Desde pequeño, me he
 
 En **ByteYourCode**, cubro una amplia gama de temas, desde conceptos básicos para principiantes hasta técnicas avanzadas para programadores más experimentados. Siempre estoy buscando nuevas ideas y formas de mejorar, por lo que aprecio cualquier feedback y colaboración.
 
-Si deseas explorar mis tutoriales y otros proyectos relacionados con la programación, visita mi cuenta [@ByteYourCode](https://github.com/ByteYourCode). 
+Si deseas explorar mis tutoriales y otros proyectos relacionados con la programación, visita mi cuenta [@ByteYourCode]([https://github.com/ByteYourCode](https://www.youtube.com/channel/UCSki3rWVSXcFRTKYY9F0wjQ)). 
 
-Para conectarte conmigo directamente y discutir colaboraciones, ideas o cualquier otra inquietud, mi perfil personal es [@abraham_esh]([https://github.com/abraham_esh](https://www.linkedin.com/in/abraham-esh/)). Estoy abierto a nuevas oportunidades, proyectos conjuntos y, por supuesto, a aprender de la vasta comunidad de GitHub.
+Para conectarte conmigo directamente y discutir colaboraciones, ideas o cualquier otra inquietud, mi perfil personal es [@abraham_esh]([https://github.com/abraham_esh](https://www.linkedin.com/in/abraham-esh/). Estoy abierto a nuevas oportunidades, proyectos conjuntos y, por supuesto, a aprender de la vasta comunidad de GitHub.
 
 ¡Gracias por visitar mi perfil y espero que encuentres algo de valor en mis contribuciones!
 
