@@ -1,3 +1,16 @@
+# [ByteYour Markdown](https://github.com/A-esh/Byte-your-Markdown).
+[![This is the ByteYourCode Logo](https://github.com/A-esh/Byte-your-Markdown/blob/main/Resource/Markdown%20Banner.png?raw=true)](https://github.com/A-esh/Byte-your-Markdown)
+
+## Objetivo del Curso
+El objetivo es capacitar a los participantes para que puedan aprovechar al máximo las capacidades de Markdown, un lenguaje de marcado ligero, versátil y ampliamente utilizado.
+
+## ¿Por Qué Markdown?
+- Simple y fácil de aprender.
+- Ampliamente utilizado en plataformas como GitHub, blogs y más.
+- Facilita la creación de documentos con formato sin necesidad de un software complicado.
+
+---
+
 Hola a todos 👋,
 
 Soy un estudiante dedicado y entusiasta de la tecnología. Desde pequeño, me he sentido fascinado por el poder y las posibilidades que ofrece la programación. Esta pasión me llevó a crear **ByteYourCode**, un proyecto emprendedor donde me dedico a compartir tutoriales sobre diversos aspectos de la programación. Mi objetivo no es solo educar sino también inspirar a otros a embarcarse en esta emocionante aventura del código.
