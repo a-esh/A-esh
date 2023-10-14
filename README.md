@@ -1,17 +1,6 @@
-# [ByteYour Markdown](https://github.com/A-esh/Byte-your-Markdown)
-[![This is the ByteYourCode Logo](https://github.com/A-esh/Byte-your-Markdown/blob/main/Resource/Markdown%20Banner.png?raw=true)](https://github.com/A-esh/Byte-your-Markdown)
-
-## Objetivo del Curso
-El objetivo es capacitar a los participantes para que puedan aprovechar al máximo las capacidades de Markdown, un lenguaje de marcado ligero, versátil y ampliamente utilizado.
-
-## ¿Por Qué Markdown?
-- Simple y fácil de aprender.
-- Ampliamente utilizado en plataformas como GitHub, blogs y más.
-- Facilita la creación de documentos con formato sin necesidad de un software complicado.
-
----
-
 Hola a todos 👋,
+---
+![This is the ByteYourMarkdown](https://github.com/A-esh/A-esh/blob/main/Banner%202048x1152.png?raw=true)
 
 Soy un estudiante dedicado y entusiasta de la tecnología. Desde pequeño, me he sentido fascinado por el poder y las posibilidades que ofrece la programación. Esta pasión me llevó a crear **ByteYourCode**, un proyecto emprendedor donde me dedico a compartir tutoriales sobre diversos aspectos de la programación. Mi objetivo no es solo educar sino también inspirar a otros a embarcarse en esta emocionante aventura del código.
 
@@ -33,6 +22,19 @@ Para conectarte conmigo directamente y discutir colaboraciones, ideas o cualquie
 
 ### Comunidad:
 [![Discord](https://img.shields.io/badge/Discord-Canal_de_la_comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/eh7BFDB)
+
+---
+
+# [ByteYour Markdown](https://github.com/A-esh/Byte-your-Markdown)
+[![This is the ByteYourMarkdown](https://github.com/A-esh/Byte-your-Markdown/blob/main/Resource/Markdown%20Banner.png?raw=true)](https://github.com/A-esh/Byte-your-Markdown)
+
+## Objetivo del Curso
+El objetivo es capacitar a los participantes para que puedan aprovechar al máximo las capacidades de Markdown, un lenguaje de marcado ligero, versátil y ampliamente utilizado.
+
+## ¿Por Qué Markdown?
+- Simple y fácil de aprender.
+- Ampliamente utilizado en plataformas como GitHub, blogs y más.
+- Facilita la creación de documentos con formato sin necesidad de un software complicado.
 
 <!---
 A-esh/A-esh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
