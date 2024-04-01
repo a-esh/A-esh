@@ -1,14 +1,16 @@
-Hola a todos 👋,
----
-![This is the ByteYourMarkdown](https://github.com/A-esh/A-esh/blob/main/Banner%202048x1152.png?raw=true)
+<h1>Hi, I'm Abraham! <br/><a href="https://github.com/a-esh">Programmer</a>, <a href="https://www.linkedin.com/in/abraham-esh/">A.I. Enthusiast</a>
+<h2>🔭 I'm currently working on:</h2>
+- ByteYourCode: a web app to make car, hotel and package reservations in Florida for a brand new company from scratch!<br/>
+</h3>
+<h2>🔍 About me</h2>
 
 Soy un estudiante dedicado y entusiasta de la tecnología. Desde pequeño, me he sentido fascinado por el poder y las posibilidades que ofrece la programación. Esta pasión me llevó a crear **ByteYourCode**, un proyecto emprendedor donde me dedico a compartir tutoriales sobre diversos aspectos de la programación. Mi objetivo no es solo educar sino también inspirar a otros a embarcarse en esta emocionante aventura del código.
 
 En **ByteYourCode**, cubro una amplia gama de temas, desde conceptos básicos para principiantes hasta técnicas avanzadas para programadores más experimentados. Siempre estoy buscando nuevas ideas y formas de mejorar, por lo que aprecio cualquier feedback y colaboración.
 
-Si deseas explorar mis tutoriales y otros proyectos relacionados con la programación, visita mi cuenta [@ByteYourCode]([https://github.com/ByteYourCode](https://www.youtube.com/channel/UCSki3rWVSXcFRTKYY9F0wjQ)). 
+Si deseas explorar mis tutoriales y otros proyectos relacionados con la programación, visita mi organización [@ByteYourCode](https://github.com/ByteYour)
 
-Para conectarte conmigo directamente y discutir colaboraciones, ideas o cualquier otra inquietud, mi perfil personal es [@abraham_esh]([https://github.com/abraham_esh](https://www.linkedin.com/in/abraham-esh/). Estoy abierto a nuevas oportunidades, proyectos conjuntos y, por supuesto, a aprender de la vasta comunidad de GitHub.
+Para conectarte conmigo directamente y discutir colaboraciones, ideas o cualquier otra inquietud, mi perfil personal es [LinkedIn](https://www.linkedin.com/in/abraham-esh/). Estoy abierto a nuevas oportunidades, proyectos conjuntos y, por supuesto, a aprender de la vasta comunidad de GitHub.
 
 ¡Gracias por visitar mi perfil y espero que encuentres algo de valor en mis contribuciones!
 
