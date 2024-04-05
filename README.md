@@ -1,7 +1,10 @@
 <h1>Hi, I'm Abraham! <br/><a href="https://github.com/a-esh">Programmer</a>, <a href="https://www.linkedin.com/in/abraham-esh/">A.I. Enthusiast</a>
-<h2>🔭 I'm currently working on:</h2>
+<h2>🔭 I'm currently working on</h2>
+  
 - SoundManager: An automatic music organizer, metadata reset and FLAC, WAV, MP3 file manager.
+
 - ByteYourCode: a web app to make car, hotel and package reservations in Florida for a brand new company from scratch!<br/>
+
 </h3>
 <h2>🔍 About me</h2>
 
