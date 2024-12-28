@@ -5,12 +5,32 @@
 
 - Studying React JS in [fullstackopen](https://fullstackopen.com/es/) -> [My GitHub repository](https://github.com/a-esh/fullstackopen)
 
-</h3>
 <h2>🔍 About me</h2>
 
 - Soy un estudiante dedicado a la tecnología actualmente estudiando en la Escual Superior de Informátiica UCLM 🎓
 
 - Para conectarte conmigo directamente y discutir colaboraciones, ideas o cualquier otra inquietud, mi perfil personal es [LinkedIn](https://www.linkedin.com/in/abrahamescalona/). Estoy abierto a nuevas oportunidades, proyectos conjuntos y, por supuesto, a aprender de la vasta comunidad de GitHub.
+  
+<h2>🐍 Skills</h2>
+
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=js,python,java)
+
+#### Frontend Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=react,html,css)
+
+#### Backend Technologies
+[![Backend Technologies](https://skillicons.dev/icons?i=flask,docker,mysql)](https://skillicons.dev)
+
+#### Other tools & Technologies
+![Others](https://skillicons.dev/icons?i=git,github,markdown,notion,vscode,figma,githubactions,arduino)
+
+
+
+
+
+
+
 
 ---
 [![GitHub](https://img.shields.io/badge/GitHub-Mi_perfil-5B47ED?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/A-esh)
